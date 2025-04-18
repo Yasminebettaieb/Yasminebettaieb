@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yasmine Bettaieb</h1>
-<h3 align="center">A passionate Junior Data Engineer and Master’s student in Computer Science at Philipps-Universität Marburg. I specialize in data engineering, DevOps, machine learning, and full-stack development.</h3>
+<h3 align="center">A passionate Software Engineer and Master’s student in Computer Science at Philipps-Universität Marburg.</h3>
 
 
 - 🌱 I’m currently learning **Graph Neural Networks**.
